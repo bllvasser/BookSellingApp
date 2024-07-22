@@ -9,7 +9,7 @@ public class BookSellingAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BookSellingAppApplication.class, args);
 		
-		System.out.println("hello");
+		System.out.println("It's running");
 	}
 
 }
